@@ -19,6 +19,7 @@ class CreateLibrosTable extends Migration
             $table->string('edizione')->nullable();
             $table->string('autore');
             $table->string('categoria')->nullable();
+            $table->string('anno_publicazione')->nullable();
 
             $table->string('img_path')->nullable();
             $table->timestamps();

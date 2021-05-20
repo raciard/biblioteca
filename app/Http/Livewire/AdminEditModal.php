@@ -16,6 +16,7 @@ class AdminEditModal extends ModalComponent
     public $titolo;
     public $autore;
     public $copertina;
+    public $anno;
     public $categoria = "narrativa";
 
     public $mode;
