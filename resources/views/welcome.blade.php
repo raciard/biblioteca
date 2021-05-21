@@ -21,9 +21,10 @@
             }
         </style>
     </head>
-    <body class="antialiased">
-        <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-            
+    <body class="antialiased bg-gray-900">
+      <div class=""><a href="/admin" class="float-right m-3 text-indigo-600 hover:text-indigo-500">Admin</a></div>
+
+        <div class="relative flex items-top justify-center min-h-screen  sm:items-center py-4 sm:pt-0">
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <main class="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
